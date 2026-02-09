@@ -35,15 +35,19 @@ No clutter, no sidebar noise, no suggested content — just the posts, distilled
 
 1. **Download this repo** — click the green **Code** button above, then **Download ZIP**. Extract the zip.
 
-2. **Open Chrome Extensions** — navigate to `chrome://extensions` in your address bar.
+2. **Open Chrome Extensions** — navigate to `chrome://extensions` and enable **Developer Mode**.
 
-3. **Enable Developer Mode** — toggle the switch in the top-right corner.
+   ![Enable Developer Mode](step-1-developer-mode.png)
 
-4. **Load the extension** — click **"Load unpacked"** and select the extracted folder (the one containing `manifest.json`).
+3. **Load the extension** — click **"Load unpacked"** and select the extracted folder (the one containing `manifest.json`).
+
+   ![Load unpacked](step-2-load-unpacked.png)
+
+4. **Pin it** — click the Extensions puzzle icon in your toolbar and pin Unfluff for easy access.
+
+   ![Pin the extension](step-3-pin-extension.png)
 
 5. **Browse LinkedIn** — open [linkedin.com](https://www.linkedin.com) and scroll your feed. Posts will be analyzed automatically.
-
-> **Tip:** Click the Unfluff sheep in your Chrome toolbar to toggle analysis on/off.
 
 ## Updating
 
