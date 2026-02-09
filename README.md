@@ -1,8 +1,23 @@
-# Unfluff
+<p align="center">
+  <img src="fluff.webp" alt="Unfluff" width="120" />
+</p>
+
+<h1 align="center">Unfluff</h1>
+
+<p align="center">
+  <strong>Cut through LinkedIn noise.</strong><br>
+  AI-powered Chrome extension that summarizes, categorizes, and declutters your feed.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/standardagents">LinkedIn</a> &middot;
+  <a href="https://x.com/standard_agents">X / Twitter</a> &middot;
+  <a href="https://discord.com/invite/GrdTtPZq7V">Discord</a>
+</p>
 
 > **Early preview** — this extension is under active development. Expect rough edges.
 
-**Cut through LinkedIn noise.** Unfluff is a Chrome extension that uses AI to summarize and categorize LinkedIn feed posts so you can focus on what actually matters.
+---
 
 ![Unfluff demo](unfluff-demo.gif)
 
@@ -18,8 +33,6 @@ No clutter, no sidebar noise, no suggested content — just the posts, distilled
 
 ## Install
 
-This extension is currently in early preview. To install it as an unpacked Chrome extension:
-
 1. **Download this repo** — click the green **Code** button above, then **Download ZIP**. Extract the zip.
 
 2. **Open Chrome Extensions** — navigate to `chrome://extensions` in your address bar.
@@ -30,7 +43,7 @@ This extension is currently in early preview. To install it as an unpacked Chrom
 
 5. **Browse LinkedIn** — open [linkedin.com](https://www.linkedin.com) and scroll your feed. Posts will be analyzed automatically.
 
-> **Tip:** After loading, you should see the Unfluff icon in your Chrome toolbar. Click it to toggle analysis on/off.
+> **Tip:** Click the Unfluff sheep in your Chrome toolbar to toggle analysis on/off.
 
 ## Updating
 
@@ -42,4 +55,6 @@ When a new version is available:
 
 ---
 
-Powered by [AgentBuilder](https://standardagentbuilder.com)
+<p align="center">
+  Powered by <a href="https://standardagentbuilder.com">AgentBuilder</a>
+</p>
