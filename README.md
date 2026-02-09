@@ -49,6 +49,8 @@ No clutter, no sidebar noise, no suggested content — just the posts, distilled
 
 5. **Browse LinkedIn** — open [linkedin.com](https://www.linkedin.com) and scroll your feed. Posts will be analyzed automatically.
 
+   ![Unfluff in action](step-4-browse.png)
+
 ## Updating
 
 When a new version is available:
