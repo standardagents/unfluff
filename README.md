@@ -40,6 +40,6 @@ When a new version is available:
 2. Extract and replace the old folder
 3. Go to `chrome://extensions` and click the refresh icon on the Unfluff card
 
-## Built by
+---
 
-[Standard Agents](https://standardagents.ai) — building AI agents that work.
+Powered by [AgentBuilder](https://standardagentbuilder.com)
