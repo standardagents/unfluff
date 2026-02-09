@@ -2,7 +2,7 @@
 
 **Cut through LinkedIn noise.** Unfluff is a Chrome extension that uses AI to summarize and categorize LinkedIn feed posts so you can focus on what actually matters.
 
-https://github.com/user-attachments/assets/unfluff-demo.mp4
+https://github.com/standardagents/unfluff/releases/download/v0.1.0/unfluff-demo.mp4
 
 ## How it works
 
