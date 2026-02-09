@@ -8,11 +8,13 @@
 
 ## How it works
 
-Unfluff runs quietly in the background as you scroll LinkedIn. It analyzes each post and adds:
+Unfluff replaces the LinkedIn feed with a clean, minimalist reading experience. It analyzes each post and adds:
 
 - A short plain-English summary
 - A category tag (e.g. "hiring", "self-promo", "insight", "engagement bait")
 - Visual indicators so you can skim your feed in seconds
+
+No clutter, no sidebar noise, no suggested content — just the posts, distilled.
 
 ## Install
 
