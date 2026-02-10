@@ -1,12 +1,13 @@
 {
   "manifest_version": 3,
   "name": "Unfluff (preview)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Summarizes and categorizes LinkedIn feed posts so you can cut through the noise.",
   "permissions": [
     "storage",
     "scripting",
-    "activeTab"
+    "activeTab",
+    "alarms"
   ],
   "host_permissions": [
     "https://www.linkedin.com/*",
